@@ -1,5 +1,5 @@
 Hi, I'm Gonçalo 👋 
-I'm a Site Reliability Engineer based in the Netherlands. I help build and maintain the infrastructure and platforms.
+I'm a Site Reliability Engineer based in the Netherlands. I help build and maintain infrastructure and platforms.
 
 ### Talks
 
